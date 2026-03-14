@@ -54,16 +54,22 @@
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="mailto:Alaa.Soudy1979@helwan.edu.eg">
-<img src="https://img.shields.io/badge/Email-Alaa-red?style=for-the-badge&logo=gmail">
+<p align="center">
+<a href="mailto:Alaa.Soudy@helwan.edu.eg">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/alaa-soudy-65378a288/">
-<img src="https://img.shields.io/badge/LinkedIn-AlaaSoudy-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://my-portfolio-b3s7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Engineering;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
