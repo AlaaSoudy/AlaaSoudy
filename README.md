@@ -39,7 +39,10 @@ Excel | Data Analysis
 ![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaSoudy\&show_icons=true\&theme=tokyonight)
 
 ---
-
 ## 🌐 Connect With Me
 
 📧 **Email:** [Alaa.Soudy1979@helwan.edu.eg](mailto:Alaa.Soudy1979@helwan.edu.eg)
+
+💼 **LinkedIn:** [Alaa Soudy](https://www.linkedin.com/in/alaa-soudy-65378a288/)
+
+🌐 **Portfolio:** [My Portfolio](https://my-portfolio-b3s7.vercel.app/)
