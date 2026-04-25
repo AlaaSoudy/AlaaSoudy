@@ -1,8 +1,10 @@
 # Hi 👋 I'm Alaa Soudy
 
-🎓 **Communication & Electronics Engineering Student** – Helwan University  
+🎓 **ECE Student at Capital University**  
 💻 **Frontend Web Developer**  
-🤖 **Interested in Artificial Intelligence, Data Science, and Machine Learning**  
+🤖 **Machine Learning Engineer**  
+📡 **Exploring 5G Networks & Digital IC Design**  
+⚙️ **Interested in AI for EDA, Functional Verification & Hardware Systems**  
 🛠 **Learning MATLAB & Data Science Tools**
 
 ---
@@ -34,6 +36,7 @@
 - Data Science  
 - Natural Language Processing (NLP)  
 - Computer Vision  
+- AI for EDA & Hardware Design  
 
 ---
 
@@ -42,7 +45,8 @@
 - Machine Learning  
 - Data Analysis  
 - Communication Systems  
-- MATLAB Advanced Techniques
+- MATLAB Advanced Techniques  
+- Digital IC Design & Verification Concepts  
 
 ---
 
@@ -71,5 +75,5 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;AI+Engineering;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;ML+Engineer;AI+for+Hardware+%26+EDA;Always+Learning+New+Things" />
 </p>
